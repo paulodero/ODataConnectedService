@@ -8,9 +8,11 @@ Connected Service|Rolling | <img src="https://identitydivision.visualstudio.com/
 This is the official OData Connected Service repository which allows users to generate proxy classes from the OData Metadata.
 
 ### OData Connected Service Provider
-The OData Connected Service release can be found in the two following places. 
+The OData Connected Service documentation and other artifacts can be found in the two following places. 
 * [Source Code](https://github.com/OData/ODataConnectedService)
-* [Visual Studio Extension](https://visualstudiogallery.msdn.microsoft.com/b343d0eb-6493-44c2-b558-13a0408d013f)
+* [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=laylaliu.ODataConnectedService)
+* [Releases](https://github.com/OData/ODataConnectedService/releases)
+* [Documentation](https://docs.microsoft.com/en-us/odata/)
 
 ### Building
 In order to build the application Visual Studio 2019/2017 is the recommended development environment with the visx development tools installed.
@@ -74,4 +76,8 @@ There are many ways for you to contribute to OData Connected services. The easie
 
 ### Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [.NET Foundation Contributor Covenant Code of Conduct](https://dotnetfoundation.org/about/code-of-conduct). For more information see the [Code of Conduct FAQ](https://dotnetfoundation.org/about/faq).
+
+### .NET Foundation
+
+This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
